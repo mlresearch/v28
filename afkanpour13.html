@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>A Randomized Mirror Descent Algorithm for Large Scale Multiple Kernel Learning | ICML 2013 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="A Randomized Mirror Descent Algorithm for Large Scale Multiple Kernel Learning">
+
+  <meta name="citation_author" content="Afkanpour, Arash">
+
+  <meta name="citation_author" content="György, András">
+
+  <meta name="citation_author" content="Szepesvari, Csaba">
+
+  <meta name="citation_author" content="Bowling, Michael">
+
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_conference_title" content="Proceedings of The 30th International Conference on Machine Learning">
+<meta name="citation_firstpage" content="374">
+<meta name="citation_lastpage" content="382">
+<meta name="citation_pdf_url" content="http://jmlr.org/proceedings/papers/v28/afkanpour13.pdf">
+
+</head>
+<body>
+
+<div id="fixed"> <a align="right" href="http://www.jmlr.org/" target="_top"><img class="jmlr" src="http://jmlr.org/proceedings/papers/img/jmlr.jpg" align="right" border="0"></a> 
+<p><br><br>
+</p><p align="right"> <a href="http://www.jmlr.org/"> Home Page </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/papers"> Papers
+ </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/author-info.html"> Submissions </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/news.html"> 
+News </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/scope.html"> 
+Scope </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/editorial-board.html"> Editorial Board </a>
+ 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/announcements.html"> Announcements </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/proceedings"> 
+Proceedings </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/mloss">Open 
+Source Software</a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/search-jmlr.html"> Search </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/manudb"> Login </a></p>
+
+<br><br>
+<p align="right"> <a href="http://jmlr.csail.mit.edu/jmlr.xml"> 
+<img src="http://jmlr.org/proceedings/papers/img/RSS.gif" class="rss" alt="RSS Feed">
+</a>
+
+</p>
+ </div>
+
+<div id="content">
+
+	<h1>A Randomized Mirror Descent Algorithm for Large Scale Multiple Kernel Learning</h1>
+
+	<div id="authors">
+	
+		Arash Afkanpour,
+	
+		András György,
+	
+		Csaba Szepesvari,
+	
+		Michael Bowling
+	</div>;
+	<div id="info">
+		JMLR W&amp;CP 28 
+		 (1) 
+		: 
+		374–382, 2013
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		We consider the problem of simultaneously learning to linearly combine a very large number of kernels and learn a good predictor based on the learnt kernel. When the number of kernels d to be combined is very large, multiple kernel learning methods whose computational cost scales linearly in d are intractable. We propose a randomized version of the mirror descent algorithm to overcome this issue, under the objective of minimizing the group p-norm penalized empirical risk. The key to achieve the required exponential speed-up is the computationally efficient construction of low-variance estimates of the gradient. We propose importance sampling based estimates, and find that the ideal distribution samples a coordinate with a probability proportional to the magnitude of the corresponding gradient. We show that in the case of learning the coefficients of a polynomial kernel, the combinatorial structure of the base kernels to be combined allows sampling from this distribution in <span class="math">\(O(\log(d))\)</span> time, making the total computational cost of the method to achieve an epsilon-optimal solution to be <span class="math">\(O(\log(d)/epsilon^2)\)</span>, thereby allowing our method to operate for very large values of d. Experiments with simulated and real data confirm that the new algorithm is computationally more efficient than its state-of-the-art alternatives.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="afkanpour13.pdf">Download PDF</a></li>
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

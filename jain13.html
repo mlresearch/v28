@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Differentially Private Learning with Kernels | ICML 2013 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Differentially Private Learning with Kernels">
+
+  <meta name="citation_author" content="Jain, Prateek">
+
+  <meta name="citation_author" content="Thakurta, Abhradeep">
+
+<meta name="citation_publication_date" content="2013">
+<meta name="citation_conference_title" content="Proceedings of The 30th International Conference on Machine Learning">
+<meta name="citation_firstpage" content="118">
+<meta name="citation_lastpage" content="126">
+<meta name="citation_pdf_url" content="http://jmlr.org/proceedings/papers/v28/jain13.pdf">
+
+</head>
+<body>
+
+<div id="fixed"> <a align="right" href="http://www.jmlr.org/" target="_top"><img class="jmlr" src="http://jmlr.org/proceedings/papers/img/jmlr.jpg" align="right" border="0"></a> 
+<p><br><br>
+</p><p align="right"> <a href="http://www.jmlr.org/"> Home Page </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/papers"> Papers
+ </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/author-info.html"> Submissions </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/news.html"> 
+News </a> 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/scope.html"> 
+Scope </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/editorial-board.html"> Editorial Board </a>
+ 
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/announcements.html"> Announcements </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/proceedings"> 
+Proceedings </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/mloss">Open 
+Source Software</a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/search-jmlr.html"> Search </a>
+
+</p><p align="right"> <a href="http://jmlr.csail.mit.edu/manudb"> Login </a></p>
+
+<br><br>
+<p align="right"> <a href="http://jmlr.csail.mit.edu/jmlr.xml"> 
+<img src="http://jmlr.org/proceedings/papers/img/RSS.gif" class="rss" alt="RSS Feed">
+</a>
+
+</p>
+ </div>
+
+<div id="content">
+
+	<h1>Differentially Private Learning with Kernels</h1>
+
+	<div id="authors">
+	
+		Prateek Jain,
+	
+		Abhradeep Thakurta
+	</div>;
+	<div id="info">
+		JMLR W&amp;CP 28 
+		 (3) 
+		: 
+		118–126, 2013
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		In this paper, we consider the problem of differentially private learning where access to the training features is through a kernel function only. Existing work on this problem is restricted to translation invariant kernels only, where (approximate) training features are available explicitly. In fact, for general class of kernel functions and in general setting of releasing different private predictor (<span class="math">\(\w^*\)</span>), the problem is impossible to solve <span class="citation"></span>. In this work, we relax the problem setting into three different easier but practical settings. In our first problem setting, we consider an interactive model where the user sends its test set to a trusted learner who sends back differentially private predictions over the test points. This setting is prevalent in modern online systems like search engines, ad engines etc. In the second model, the learner sends back a differentially private version of the optimal parameter vector <span class="math">\(\w^*\)</span> but requires access to a small subset of unlabeled test set beforehand. This also is a practical setting that involves two parties interacting through trusted third party. Our third model is similar to the traditional model, where learner is oblivious to the test set and needs to send a differentially private version of <span class="math">\(\w^*\)</span>, but the kernels are restricted to efficiently computable functions over low-dimensional vector spaces. For each of the models, we derive differentially private learning algorithms with provable “utlity” or error bounds. Moreover, we show that our methods can also be applied to the traditional setting of <span class="citation"></span>. Here, our sample complexity bounds have only <span class="math">\(O(d^{1/3})\)</span> dependence on the dimensionality <span class="math">\(d\)</span> while existing methods require <span class="math">\(O(d^{1/2})\)</span> samples to achieve same generalization error.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="jain13.pdf">Download PDF</a></li>
+			
+			<li><a href="jain13-supp.pdf">Supplementary (PDF)</a></li>
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>
