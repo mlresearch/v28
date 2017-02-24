@@ -1,0 +1,51 @@
+# Site settings
+# Auto generated from v28.bib
+---
+booktitle: Proceedings of the 30th International Conference on Machine Learning
+publisher: PMLR
+start: 2013-06-17
+end: 2013-06-19
+published: 2013-02-13
+volume: 28
+year: '2013'
+shortname: ICML
+sections:
+- name: cycle-1
+  title: Cycle 1 Papers
+- name: cycle-2
+  title: Cycle 2 Papers
+- name: cycle-3
+  title: Cycle 3 Papers
+layout: proceedings
+id: ICML-2013
+month: 0
+abstract: ''
+editor:
+- given: Sanjoy
+  family: Dasgupta
+- given: David
+  family: McAllester
+title: Proceedings of the 30th International Conference on Machine Learning
+email: ''
+description: Proceedings of the 30th International Conference on Machine Learning,
+  Atlanta, Georgia, USA
+url: http://proceedings.mlr.press
+baseurl: "/v28"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v28
+conference:
+  name: International Conference on Machine Learning
+  url: 
+  location: Atlanta, Georgia, USA
+  dates:
+  - 2013-06-17
+  - 2013-06-18
+  - 2013-06-19
+analytics:
+  google:
+    tracking_id: UA-92432422-1
