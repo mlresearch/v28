@@ -16,6 +16,7 @@ abstract: Networks provide a ‘skeleton’ for the spread of contagions, like, 
   algorithms on large synthetic and real cascade datasets, and show that our models
   are able to predict the length and duration of cascades in real data.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: gomez-rodriguez13
 month: 0
 firstpage: 666

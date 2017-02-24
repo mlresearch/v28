@@ -13,6 +13,7 @@ abstract: 'Discriminative latent-variable models are typically learned using EM 
   prove rates of convergence for our estimator and provide an empirical evaluation
   illustrating its strengths relative to local optimization (EM).  '
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: tejasvichaganty13
 month: 0
 firstpage: 1040

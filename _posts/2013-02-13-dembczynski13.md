@@ -16,6 +16,7 @@ abstract: We compare the plug-in rule approach for optimizing the F-measure in m
   whereas the SSVM approaches are not. Finally, we present results of a large experimental
   study showing the benefits of the introduced algorithm.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: dembczynski13
 month: 0
 firstpage: 1130

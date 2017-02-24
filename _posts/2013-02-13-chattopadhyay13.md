@@ -21,6 +21,7 @@ abstract: Active learning and transfer learning are two different methodologies 
   proposed method improves the classification accuracy by 5% to  10% over the existing
   two-stage approach
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: chattopadhyay13
 month: 0
 firstpage: 253

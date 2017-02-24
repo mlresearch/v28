@@ -17,6 +17,7 @@ abstract: 'Latent Gaussian models (LGMs) are widely used in statistics and machi
   these advantages on a variety of LGMs including Gaussian process classification
   and latent Gaussian Markov random fields.    '
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: emtiyazkhan13
 month: 0
 firstpage: 951

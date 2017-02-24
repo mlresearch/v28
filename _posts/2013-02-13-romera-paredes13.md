@@ -15,6 +15,7 @@ abstract: Many real world datasets occur or can be arranged into multi-modal str
   provide a significant  improvement over other multitask learning methods. Overall
   our second  approach yields the best performance in all datasets.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: romera-paredes13
 month: 0
 firstpage: 1444

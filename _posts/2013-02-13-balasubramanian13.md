@@ -17,6 +17,7 @@ abstract: 'We propose and analyze a novel framework for learning sparse represen
   we demonstrate how the proposed approach could be used for improving semisupervised
   sparse coding.'
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: balasubramanian13
 month: 0
 firstpage: 289

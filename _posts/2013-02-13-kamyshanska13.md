@@ -16,6 +16,7 @@ abstract: Autoencoders are popular feature learning models because they are conc
   us to derive a score via integration. We also show how one can combine multiple,
   unnormalized scores into a generative classifier.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: kamyshanska13
 month: 0
 firstpage: 720

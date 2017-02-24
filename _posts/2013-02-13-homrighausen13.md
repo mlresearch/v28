@@ -12,6 +12,7 @@ abstract: 'During the last fifteen years, the lasso procedure has been the targe
   parameter is chosen via cross-validation. We consider the high-dimensional setting
   wherein the number of predictors p=n^α, α>0 grows with the number of observations.  '
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: homrighausen13
 month: 0
 firstpage: 1031

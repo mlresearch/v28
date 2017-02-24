@@ -13,6 +13,7 @@ abstract: 'We introduce a simple, general framework for likelihood-free Bayesian
   the potential of this approach in a comparison with LSPI. Finally, we introduce
   a theorem showing that ABC is sound.  '
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: dimitrakakis13
 month: 0
 firstpage: 684

@@ -18,6 +18,7 @@ abstract: 'We propose a large margin method for asymmetric learning with ellipso
   from a real world application of detecting wheel defects from multiple partial observations,
   and show that eMIL outperforms competing approaches.'
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: krummenacher13
 month: 0
 firstpage: 73

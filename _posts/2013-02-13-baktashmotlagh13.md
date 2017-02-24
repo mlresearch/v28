@@ -15,6 +15,7 @@ abstract: 'Low-dimensional representations are key to the success of many video 
   specific to individual videos). We demonstrate the effectiveness of our approach
   on action recognition, dynamic texture classification and scene recognition.'
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: baktashmotlagh13
 month: 0
 firstpage: 450

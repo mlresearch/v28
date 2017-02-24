@@ -15,6 +15,7 @@ abstract: We propose a randomized block-coordinate variant of the classic Frank-
   gap guarantee. Our experiments indicate that this simple algorithm outperforms competing
   structural SVM solvers.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: lacoste-julien13
 month: 0
 firstpage: 53

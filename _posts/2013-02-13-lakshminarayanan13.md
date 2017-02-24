@@ -18,6 +18,7 @@ abstract: "Decision tree learning is a popular approach for classification and r
   popular MCMC method, but operates more than an order of magnitude faster, and thus
   represents a better computation-accuracy tradeoff."
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: lakshminarayanan13
 month: 0
 firstpage: 280

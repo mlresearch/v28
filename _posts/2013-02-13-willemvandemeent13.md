@@ -19,6 +19,7 @@ abstract: We address the problem of analyzing sets of noisy time-varying signals
   Bayes at the level of individual time series that learns an single interpretable
   representation of the overall data generating process.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: willemvandemeent13
 month: 0
 firstpage: 361

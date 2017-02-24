@@ -18,6 +18,7 @@ abstract: We develop a generic approach to form smooth versions of basic mathema
   tasks, such as the sum rule and kernelized approximate Bayesian inference, where
   state-of-the-art convergence rates are obtained.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: grunewalder13
 month: 0
 firstpage: 1184

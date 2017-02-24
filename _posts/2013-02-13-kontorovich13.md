@@ -15,6 +15,7 @@ abstract: 'We present a novel approach to learning an HMM whose outputs are dist
   the mixture parameters. Finally, we support our analysis with some encouraging empirical
   results.'
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: kontorovich13
 month: 0
 firstpage: 702

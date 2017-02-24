@@ -17,6 +17,7 @@ abstract: 'We introduce a novel algorithm that computes the k-sparse principal c
   of the art and show that our scheme matches or outperforms previous algorithms   in
   all tested data sets. '
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: papailiopoulos13
 month: 0
 firstpage: 747

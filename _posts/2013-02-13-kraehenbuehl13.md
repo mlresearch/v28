@@ -15,6 +15,7 @@ abstract: Dense random fields are models in which all pairs of variables are dir
   of mean field inference in the model.  As a supporting result, we present an efficient
   inference algorithm for dense random fields that is guaranteed to converge.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: kraehenbuehl13
 month: 0
 firstpage: 513

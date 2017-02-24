@@ -13,6 +13,7 @@ abstract: To reduce risk, investors seek assets that have high expected return a
   semi-definite. We show that this matrix can be used to build portfolios that not
   only “beat the market,”  but also outperform optimal (i.e., minimum variance) portfolios.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: ganeshapillai13
 month: 0
 firstpage: 109

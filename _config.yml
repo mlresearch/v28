@@ -1,5 +1,3 @@
-# Site settings
-# Auto generated from v28.bib
 ---
 booktitle: Proceedings of the 30th International Conference on Machine Learning
 publisher: PMLR
@@ -17,6 +15,7 @@ sections:
 - name: cycle-3
   title: Cycle 3 Papers
 layout: proceedings
+series: Proceedings of Machine Learning Research
 id: ICML-2013
 month: 0
 abstract: ''
@@ -49,3 +48,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v28.bib

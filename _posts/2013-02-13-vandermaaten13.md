@@ -16,6 +16,7 @@ abstract: 'The goal of machine learning is to develop predictors that generalize
   that MCF classifiers can be trained efficiently, may generalize substantially better
   to test data, and are more robust to feature deletion at test time.  '
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: vandermaaten13
 month: 0
 firstpage: 410
