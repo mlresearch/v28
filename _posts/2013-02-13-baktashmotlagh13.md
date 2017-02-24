@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/baktashmotlagh13/baktashmotlagh13.pdf
+pdf: http://proceedings.mlr.press/v28/baktashmotlagh13.pdf
 supplementary: Supplementary:baktashmotlagh13-supp.pdf
 number: '3'
 section: cycle-3

@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/homrighausen13/homrighausen13.pdf
+pdf: http://proceedings.mlr.press/v28/homrighausen13.pdf
 number: '3'
 section: cycle-3
 title: The lasso, persistence, and cross-validation

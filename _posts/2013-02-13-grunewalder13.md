@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/grunewalder13/grunewalder13.pdf
+pdf: http://proceedings.mlr.press/v28/grunewalder13.pdf
 supplementary: Supplementary:grunewalder13-supp.pdf
 number: '3'
 section: cycle-3

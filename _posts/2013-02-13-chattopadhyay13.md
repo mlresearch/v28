@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/chattopadhyay13/chattopadhyay13.pdf
+pdf: http://proceedings.mlr.press/v28/chattopadhyay13.pdf
 supplementary: Supplementary:chattopadhyay13-supp.pdf
 number: '3'
 section: cycle-3

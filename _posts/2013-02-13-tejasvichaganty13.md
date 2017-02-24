@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/tejasvichaganty13/tejasvichaganty13.pdf
+pdf: http://proceedings.mlr.press/v28/tejasvichaganty13.pdf
 supplementary: Supplementary:tejasvichaganty13-supp.pdf
 number: '3'
 section: cycle-3

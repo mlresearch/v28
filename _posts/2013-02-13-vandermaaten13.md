@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/vandermaaten13/vandermaaten13.pdf
+pdf: http://proceedings.mlr.press/v28/vandermaaten13.pdf
 title: Learning with Marginalized Corrupted Features
 number: '1'
 section: cycle-1

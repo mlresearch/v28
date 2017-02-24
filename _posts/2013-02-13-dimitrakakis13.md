@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/dimitrakakis13/dimitrakakis13.pdf
+pdf: http://proceedings.mlr.press/v28/dimitrakakis13.pdf
 number: '3'
 section: cycle-3
 title: ABC Reinforcement Learning

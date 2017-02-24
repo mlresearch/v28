@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/gomez-rodriguez13/gomez-rodriguez13.pdf
+pdf: http://proceedings.mlr.press/v28/gomez-rodriguez13.pdf
 number: '3'
 section: cycle-3
 title: Modeling Information Propagation with Survival Theory

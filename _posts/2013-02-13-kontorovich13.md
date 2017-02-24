@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/kontorovich13/kontorovich13.pdf
+pdf: http://proceedings.mlr.press/v28/kontorovich13.pdf
 supplementary: Supplementary:kontorovich13-supp.pdf
 number: '3'
 section: cycle-3

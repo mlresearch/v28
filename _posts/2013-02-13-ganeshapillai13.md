@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/ganeshapillai13/ganeshapillai13.pdf
+pdf: http://proceedings.mlr.press/v28/ganeshapillai13.pdf
 number: '2'
 section: cycle-2
 title: Learning Connections in Financial Time Series

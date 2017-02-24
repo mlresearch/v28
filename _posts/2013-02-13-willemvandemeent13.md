@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/willemvandemeent13/willemvandemeent13.pdf
+pdf: http://proceedings.mlr.press/v28/willemvandemeent13.pdf
 number: '2'
 section: cycle-2
 title: Hierarchically-coupled hidden {M}arkov models for learning kinetic rates from

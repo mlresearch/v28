@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/emtiyazkhan13/emtiyazkhan13.pdf
+pdf: http://proceedings.mlr.press/v28/emtiyazkhan13.pdf
 number: '3'
 section: cycle-3
 title: Fast Dual Variational Inference for Non-Conjugate Latent Gaussian Models

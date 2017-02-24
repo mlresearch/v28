@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/kamyshanska13/kamyshanska13.pdf
+pdf: http://proceedings.mlr.press/v28/kamyshanska13.pdf
 number: '3'
 section: cycle-3
 title: On autoencoder scoring

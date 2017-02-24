@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/papailiopoulos13/papailiopoulos13.pdf
+pdf: http://proceedings.mlr.press/v28/papailiopoulos13.pdf
 number: '3'
 section: cycle-3
 title: Sparse PCA through Low-rank Approximations

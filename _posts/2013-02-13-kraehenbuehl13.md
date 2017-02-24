@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/kraehenbuehl13/kraehenbuehl13.pdf
+pdf: http://proceedings.mlr.press/v28/kraehenbuehl13.pdf
 number: '3'
 section: cycle-3
 title: Parameter Learning and Convergent Inference for Dense Random Fields

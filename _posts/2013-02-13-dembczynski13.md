@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/dembczynski13/dembczynski13.pdf
+pdf: http://proceedings.mlr.press/v28/dembczynski13.pdf
 number: '3'
 section: cycle-3
 title: 'Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach

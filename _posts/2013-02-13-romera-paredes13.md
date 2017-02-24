@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/romera-paredes13/romera-paredes13.pdf
+pdf: http://proceedings.mlr.press/v28/romera-paredes13.pdf
 supplementary: Supplementary:romera-paredes13-supp.pdf
 number: '3'
 section: cycle-3

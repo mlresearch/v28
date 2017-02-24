@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/krummenacher13/krummenacher13.pdf
+pdf: http://proceedings.mlr.press/v28/krummenacher13.pdf
 supplementary: Supplementary:krummenacher13-supp.pdf
 number: '2'
 section: cycle-2

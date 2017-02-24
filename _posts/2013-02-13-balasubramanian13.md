@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/balasubramanian13/balasubramanian13.pdf
+pdf: http://proceedings.mlr.press/v28/balasubramanian13.pdf
 supplementary: Supplementary:balasubramanian13-supp.pdf
 number: '3'
 section: cycle-3

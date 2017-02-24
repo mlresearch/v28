@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v28/lakshminarayanan13/lakshminarayanan13.pdf
+pdf: http://proceedings.mlr.press/v28/lakshminarayanan13.pdf
 supplementary: Supplementary:lakshminarayanan13-supp.pdf
 number: '3'
 section: cycle-3
