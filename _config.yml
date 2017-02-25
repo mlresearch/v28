@@ -39,6 +39,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
+date_str: 17--19 Jun
 url: http://proceedings.mlr.press
 baseurl: "/v28"
 twitter_username: mlresearch
@@ -48,6 +49,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v28
+bibtex_copy: true
 email: ''
 conference:
   name: International Conference on Machine Learning
