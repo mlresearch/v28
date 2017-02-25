@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kamyshanska13
 month: 0
+tex_title: On autoencoder scoring
 firstpage: 720
 lastpage: 728
 page: 720-728

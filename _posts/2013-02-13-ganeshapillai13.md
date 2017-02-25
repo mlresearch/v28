@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: ganeshapillai13
 month: 0
+tex_title: Learning Connections in Financial Time Series
 firstpage: 109
 lastpage: 117
 page: 109-117

@@ -2,7 +2,7 @@
 pdf: http://proceedings.mlr.press/v28/willemvandemeent13.pdf
 number: '2'
 section: cycle-2
-title: Hierarchically-coupled hidden {M}arkov models for learning kinetic rates from
+title: Hierarchically-coupled hidden Markov models for learning kinetic rates from
   single-molecule data
 abstract: We address the problem of analyzing sets of noisy time-varying signals that
   all report on the same process but confound straightforward analyses due to complex
@@ -22,6 +22,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: willemvandemeent13
 month: 0
+tex_title: Hierarchically-coupled hidden {M}arkov models for learning kinetic rates
+  from single-molecule data
 firstpage: 361
 lastpage: 369
 page: 361-369

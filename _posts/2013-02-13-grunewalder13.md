@@ -21,6 +21,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: grunewalder13
 month: 0
+tex_title: Smooth Operators
 firstpage: 1184
 lastpage: 1192
 page: 1184-1192

@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: balasubramanian13
 month: 0
+tex_title: Smooth Sparse Coding via Marginal Regression for Learning Sparse Representations
 firstpage: 289
 lastpage: 297
 page: 289-297

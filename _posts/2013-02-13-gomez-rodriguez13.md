@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: gomez-rodriguez13
 month: 0
+tex_title: Modeling Information Propagation with Survival Theory
 firstpage: 666
 lastpage: 674
 page: 666-674

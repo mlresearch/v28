@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: dimitrakakis13
 month: 0
+tex_title: ABC Reinforcement Learning
 firstpage: 684
 lastpage: 692
 page: 684-692

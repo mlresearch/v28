@@ -21,6 +21,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: krummenacher13
 month: 0
+tex_title: Ellipsoidal Multiple Instance Learning
 firstpage: 73
 lastpage: 81
 page: 73-81

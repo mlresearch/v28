@@ -21,6 +21,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: lakshminarayanan13
 month: 0
+tex_title: Top-down particle filtering for Bayesian decision trees
 firstpage: 280
 lastpage: 288
 page: 280-288

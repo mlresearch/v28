@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: homrighausen13
 month: 0
+tex_title: The lasso, persistence, and cross-validation
 firstpage: 1031
 lastpage: 1039
 page: 1031-1039

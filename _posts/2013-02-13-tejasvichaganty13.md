@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: tejasvichaganty13
 month: 0
+tex_title: Spectral Experts for Estimating Mixtures of Linear Regressions
 firstpage: 1040
 lastpage: 1048
 page: 1040-1048

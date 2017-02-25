@@ -19,12 +19,13 @@ series: Proceedings of Machine Learning Research
 id: ICML-2013
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Sanjoy
   family: Dasgupta
 - given: David
   family: McAllester
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 30th International Conference on Machine Learning
     Held in Atlanta, Georgia, USA on 17-19 June 2013

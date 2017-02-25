@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: baktashmotlagh13
 month: 0
+tex_title: Non-Linear Stationary Subspace Analysis with Application to Video Classification
 firstpage: 450
 lastpage: 458
 page: 450-458

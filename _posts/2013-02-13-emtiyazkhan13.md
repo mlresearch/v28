@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: emtiyazkhan13
 month: 0
+tex_title: Fast Dual Variational Inference for Non-Conjugate Latent Gaussian Models
 firstpage: 951
 lastpage: 959
 page: 951-959

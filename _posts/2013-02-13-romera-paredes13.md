@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: romera-paredes13
 month: 0
+tex_title: Multilinear Multitask Learning
 firstpage: 1444
 lastpage: 1452
 page: 1444-1452

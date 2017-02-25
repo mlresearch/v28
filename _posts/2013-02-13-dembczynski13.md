@@ -19,6 +19,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: dembczynski13
 month: 0
+tex_title: 'Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach
+  versus Structured Loss Minimization'
 firstpage: 1130
 lastpage: 1138
 page: 1130-1138

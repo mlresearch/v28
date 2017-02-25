@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kraehenbuehl13
 month: 0
+tex_title: Parameter Learning and Convergent Inference for Dense Random Fields
 firstpage: 513
 lastpage: 521
 page: 513-521

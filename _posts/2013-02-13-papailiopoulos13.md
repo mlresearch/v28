@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: papailiopoulos13
 month: 0
+tex_title: Sparse PCA through Low-rank Approximations
 firstpage: 747
 lastpage: 755
 page: 747-755

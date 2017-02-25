@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: vandermaaten13
 month: 0
+tex_title: Learning with Marginalized Corrupted Features
 firstpage: 410
 lastpage: 418
 page: 410-418

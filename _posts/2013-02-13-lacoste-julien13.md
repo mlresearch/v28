@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/lacoste-julien13.pdf
 supplementary: Supplementary:lacoste-julien13-supp.pdf
-title: Block-Coordinate {Frank-Wolfe} Optimization for Structural {SVMs}
+title: Block-Coordinate Frank-Wolfe Optimization for Structural SVMs
 number: '1'
 section: cycle-1
 abstract: We propose a randomized block-coordinate variant of the classic Frank-Wolfe
@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: lacoste-julien13
 month: 0
+tex_title: Block-Coordinate {Frank-Wolfe} Optimization for Structural {SVMs}
 firstpage: 53
 lastpage: 61
 page: 53-61

@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kontorovich13
 month: 0
+tex_title: On learning parametric-output HMMs
 firstpage: 702
 lastpage: 710
 page: 702-710
