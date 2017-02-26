@@ -57,7 +57,7 @@ github:
   edit: true
   repository: v28
 display:
-  copy_buttons:
+  copy_button:
     bibtex: true
     endnote: true
     apa: true
