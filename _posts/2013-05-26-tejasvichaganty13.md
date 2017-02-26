@@ -20,6 +20,7 @@ tex_title: Spectral Experts for Estimating Mixtures of Linear Regressions
 firstpage: 1040
 lastpage: 1048
 page: 1040-1048
+order: 1040
 cycles: false
 author:
 - given: Arun

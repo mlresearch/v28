@@ -23,6 +23,7 @@ tex_title: Modeling Information Propagation with Survival Theory
 firstpage: 666
 lastpage: 674
 page: 666-674
+order: 666
 cycles: false
 author:
 - given: Manuel

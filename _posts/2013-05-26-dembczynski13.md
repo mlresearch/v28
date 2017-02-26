@@ -24,6 +24,7 @@ tex_title: 'Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule
 firstpage: 1130
 lastpage: 1138
 page: 1130-1138
+order: 1130
 cycles: false
 author:
 - given: Krzysztof

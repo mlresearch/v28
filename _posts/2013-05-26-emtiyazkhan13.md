@@ -24,6 +24,7 @@ tex_title: Fast Dual Variational Inference for Non-Conjugate Latent Gaussian Mod
 firstpage: 951
 lastpage: 959
 page: 951-959
+order: 951
 cycles: false
 author:
 - given: Mohammad

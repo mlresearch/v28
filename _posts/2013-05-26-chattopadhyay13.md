@@ -28,6 +28,7 @@ tex_title: Joint Transfer and Batch-mode Active Learning
 firstpage: 253
 lastpage: 261
 page: 253-261
+order: 253
 cycles: false
 author:
 - given: Rita

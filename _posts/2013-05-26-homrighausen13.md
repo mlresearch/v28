@@ -19,6 +19,7 @@ tex_title: The lasso, persistence, and cross-validation
 firstpage: 1031
 lastpage: 1039
 page: 1031-1039
+order: 1031
 cycles: false
 author:
 - given: Darren

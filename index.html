@@ -46,7 +46,6 @@ layout: default
 {% endfor %}
 {% endif %}
 
-{% assign sorted = (site.posts | sort: 'order') %}
 {% for post in sorted %}
 {% unless post.section %} 
 {% include listpaper.html %}

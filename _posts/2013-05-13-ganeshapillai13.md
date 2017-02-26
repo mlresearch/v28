@@ -20,6 +20,7 @@ tex_title: Learning Connections in Financial Time Series
 firstpage: 109
 lastpage: 117
 page: 109-117
+order: 109
 cycles: false
 author:
 - given: Gartheeban

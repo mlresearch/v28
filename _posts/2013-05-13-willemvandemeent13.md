@@ -27,6 +27,7 @@ tex_title: Hierarchically-coupled hidden {M}arkov models for learning kinetic ra
 firstpage: 361
 lastpage: 369
 page: 361-369
+order: 361
 cycles: false
 author:
 - given: Jan-Willem

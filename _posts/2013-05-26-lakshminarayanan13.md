@@ -25,6 +25,7 @@ tex_title: Top-down particle filtering for Bayesian decision trees
 firstpage: 280
 lastpage: 288
 page: 280-288
+order: 280
 cycles: false
 author:
 - given: Balaji

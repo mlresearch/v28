@@ -23,6 +23,7 @@ tex_title: On autoencoder scoring
 firstpage: 720
 lastpage: 728
 page: 720-728
+order: 720
 cycles: false
 author:
 - given: Hanna

@@ -24,6 +24,7 @@ tex_title: Smooth Sparse Coding via Marginal Regression for Learning Sparse Repr
 firstpage: 289
 lastpage: 297
 page: 289-297
+order: 289
 cycles: false
 author:
 - given: Krishnakumar

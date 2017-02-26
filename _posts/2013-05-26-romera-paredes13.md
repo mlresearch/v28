@@ -22,6 +22,7 @@ tex_title: Multilinear Multitask Learning
 firstpage: 1444
 lastpage: 1452
 page: 1444-1452
+order: 1444
 cycles: false
 author:
 - given: Bernardino

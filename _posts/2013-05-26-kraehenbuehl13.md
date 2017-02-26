@@ -22,6 +22,7 @@ tex_title: Parameter Learning and Convergent Inference for Dense Random Fields
 firstpage: 513
 lastpage: 521
 page: 513-521
+order: 513
 cycles: false
 author:
 - given: Philipp

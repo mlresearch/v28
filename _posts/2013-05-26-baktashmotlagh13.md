@@ -22,6 +22,7 @@ tex_title: Non-Linear Stationary Subspace Analysis with Application to Video Cla
 firstpage: 450
 lastpage: 458
 page: 450-458
+order: 450
 cycles: false
 author:
 - given: Mahsa

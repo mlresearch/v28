@@ -24,6 +24,7 @@ tex_title: Sparse PCA through Low-rank Approximations
 firstpage: 747
 lastpage: 755
 page: 747-755
+order: 747
 cycles: false
 author:
 - given: Dimitris

@@ -22,6 +22,7 @@ tex_title: Block-Coordinate {Frank-Wolfe} Optimization for Structural {SVMs}
 firstpage: 53
 lastpage: 61
 page: 53-61
+order: 53
 cycles: false
 author:
 - given: Simon

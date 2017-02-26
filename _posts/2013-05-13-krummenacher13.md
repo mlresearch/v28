@@ -25,6 +25,7 @@ tex_title: Ellipsoidal Multiple Instance Learning
 firstpage: 73
 lastpage: 81
 page: 73-81
+order: 73
 cycles: false
 author:
 - given: Gabriel

@@ -22,6 +22,7 @@ tex_title: On learning parametric-output HMMs
 firstpage: 702
 lastpage: 710
 page: 702-710
+order: 702
 cycles: false
 author:
 - given: Aryeh

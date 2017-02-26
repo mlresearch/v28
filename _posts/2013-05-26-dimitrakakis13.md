@@ -20,6 +20,7 @@ tex_title: ABC Reinforcement Learning
 firstpage: 684
 lastpage: 692
 page: 684-692
+order: 684
 cycles: false
 author:
 - given: Christos
