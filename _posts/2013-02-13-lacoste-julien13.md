@@ -2,7 +2,7 @@
 pdf: http://proceedings.mlr.press/v28/lacoste-julien13.pdf
 supplementary: Supplementary:lacoste-julien13-supp.pdf
 title: Block-Coordinate Frank-Wolfe Optimization for Structural SVMs
-number: '1'
+number: 0
 section: cycle-1
 abstract: We propose a randomized block-coordinate variant of the classic Frank-Wolfe
   algorithm for convex optimization with block-separable constraints. Despite its
@@ -22,7 +22,7 @@ tex_title: Block-Coordinate {Frank-Wolfe} Optimization for Structural {SVMs}
 firstpage: 53
 lastpage: 61
 page: 53-61
-sections: 
+cycles: false
 author:
 - given: Simon
   family: Lacoste-Julien

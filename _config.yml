@@ -10,10 +10,13 @@ shortname: ICML
 sections:
 - name: cycle-1
   title: Cycle 1 Papers
+  published: 2013-02-13
 - name: cycle-2
   title: Cycle 2 Papers
+  published: 2013-05-13
 - name: cycle-3
   title: Cycle 3 Papers
+  published: 2013-05-26
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: ICML-2013
@@ -21,6 +24,7 @@ month: 0
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: true
 editor:
 - given: Sanjoy
   family: Dasgupta
@@ -30,7 +34,10 @@ description: |
   Proceedings of the 30th International Conference on Machine Learning
     Held in Atlanta, Georgia, USA on 17-19 June 2013
 
-  Published as Volume 28 by the Proceedings of Machine Learning Research on 13 February 2013.
+  Published in 3 Sections as Volume 28 by the Proceedings of Machine Learning Research.
+    Cycle 1 Papers published on 13 February 2013
+    Cycle 2 Papers published on 13 May 2013
+    Cycle 3 Papers published on 26 May 2013
 
   Volume Edited by:
     Sanjoy Dasgupta
