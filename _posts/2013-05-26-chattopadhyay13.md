@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/chattopadhyay13.pdf
-supplementary: Supplementary:chattopadhyay13-supp.pdf
+supplementary: http://proceedings.mlr.press/v28/chattopadhyay13-supp.pdf
 number: 3
 section: cycle-3
 title: Joint Transfer and Batch-mode Active Learning

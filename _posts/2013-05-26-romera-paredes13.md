@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/romera-paredes13.pdf
-supplementary: Supplementary:romera-paredes13-supp.pdf
+supplementary: http://proceedings.mlr.press/v28/romera-paredes13-supp.pdf
 number: 3
 section: cycle-3
 title: Multilinear Multitask Learning

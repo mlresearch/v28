@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/lakshminarayanan13.pdf
-supplementary: Supplementary:lakshminarayanan13-supp.pdf
+supplementary: http://proceedings.mlr.press/v28/lakshminarayanan13-supp.pdf
 number: 3
 section: cycle-3
 title: Top-down particle filtering for Bayesian decision trees

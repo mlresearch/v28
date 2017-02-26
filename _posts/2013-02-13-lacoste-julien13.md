@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/lacoste-julien13.pdf
-supplementary: Supplementary:lacoste-julien13-supp.pdf
+supplementary: http://proceedings.mlr.press/v28/lacoste-julien13-supp.pdf
 title: Block-Coordinate Frank-Wolfe Optimization for Structural SVMs
 number: 1
 section: cycle-1

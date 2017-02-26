@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/baktashmotlagh13.pdf
-supplementary: Supplementary:baktashmotlagh13-supp.pdf
+supplementary: http://proceedings.mlr.press/v28/baktashmotlagh13-supp.pdf
 number: 3
 section: cycle-3
 title: Non-Linear Stationary Subspace Analysis with Application to Video Classification
