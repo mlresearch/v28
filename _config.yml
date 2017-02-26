@@ -61,6 +61,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+  comments: false
 email: ''
 conference:
   name: International Conference on Machine Learning
