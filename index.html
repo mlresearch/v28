@@ -45,13 +45,13 @@ title: site.title
 {% endif %}
 {% endfor %}
 {% endfor %}
-{% endif %}
-
+{% else %}
 {% for post in sorted %}
 {% unless post.section %} 
 {% include listpaper.html %}
 {% endunless %}
 {% endfor %}
+{% endif %}
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
