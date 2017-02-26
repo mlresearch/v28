@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/dembczynski13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: 'Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach
   versus Structured Loss Minimization'

@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/gomez-rodriguez13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Modeling Information Propagation with Survival Theory
 abstract: Networks provide a ‘skeleton’ for the spread of contagions, like, information,

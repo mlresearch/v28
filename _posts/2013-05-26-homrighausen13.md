@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/homrighausen13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: The lasso, persistence, and cross-validation
 abstract: 'During the last fifteen years, the lasso procedure has been the target

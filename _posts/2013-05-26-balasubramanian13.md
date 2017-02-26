@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/balasubramanian13.pdf
 supplementary: Supplementary:balasubramanian13-supp.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Smooth Sparse Coding via Marginal Regression for Learning Sparse Representations
 abstract: 'We propose and analyze a novel framework for learning sparse representations,

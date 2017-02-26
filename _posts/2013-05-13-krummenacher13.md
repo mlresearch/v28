@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/krummenacher13.pdf
 supplementary: Supplementary:krummenacher13-supp.pdf
-number: 1
+number: 2
 section: cycle-2
 title: Ellipsoidal Multiple Instance Learning
 abstract: 'We propose a large margin method for asymmetric learning with ellipsoids,

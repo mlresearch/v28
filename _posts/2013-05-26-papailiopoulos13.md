@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/papailiopoulos13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Sparse PCA through Low-rank Approximations
 abstract: 'We introduce a novel algorithm that computes the k-sparse principal component

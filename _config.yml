@@ -56,9 +56,11 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v28
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_buttons:
+    bibtex: true
+    endnote: true
+    apa: true
 email: ''
 conference:
   name: International Conference on Machine Learning

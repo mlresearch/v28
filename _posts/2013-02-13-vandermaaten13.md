@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/vandermaaten13.pdf
 title: Learning with Marginalized Corrupted Features
-number: 0
+number: 1
 section: cycle-1
 abstract: 'The goal of machine learning is to develop predictors that generalize well
   to test data. Ideally, this is achieved by training on very large (infinite) training

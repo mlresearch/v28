@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/kontorovich13.pdf
 supplementary: Supplementary:kontorovich13-supp.pdf
-number: 2
+number: 3
 section: cycle-3
 title: On learning parametric-output HMMs
 abstract: 'We present a novel approach to learning an HMM whose outputs are distributed

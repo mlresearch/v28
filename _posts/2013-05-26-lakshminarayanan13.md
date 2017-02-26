@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/lakshminarayanan13.pdf
 supplementary: Supplementary:lakshminarayanan13-supp.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Top-down particle filtering for Bayesian decision trees
 abstract: "Decision tree learning is a popular approach for classification and regression

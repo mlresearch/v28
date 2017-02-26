@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/tejasvichaganty13.pdf
 supplementary: Supplementary:tejasvichaganty13-supp.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Spectral Experts for Estimating Mixtures of Linear Regressions
 abstract: 'Discriminative latent-variable models are typically learned using EM or

@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/emtiyazkhan13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Fast Dual Variational Inference for Non-Conjugate Latent Gaussian Models
 abstract: 'Latent Gaussian models (LGMs) are widely used in statistics and machine

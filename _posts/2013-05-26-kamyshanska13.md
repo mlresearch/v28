@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/kamyshanska13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: On autoencoder scoring
 abstract: Autoencoders are popular feature learning models because they are conceptually

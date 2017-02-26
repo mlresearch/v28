@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/ganeshapillai13.pdf
-number: 1
+number: 2
 section: cycle-2
 title: Learning Connections in Financial Time Series
 abstract: To reduce risk, investors seek assets that have high expected return and

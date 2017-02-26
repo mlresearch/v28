@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/dimitrakakis13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: ABC Reinforcement Learning
 abstract: 'We introduce a simple, general framework for likelihood-free Bayesian reinforcement

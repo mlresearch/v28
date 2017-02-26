@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/willemvandemeent13.pdf
-number: 1
+number: 2
 section: cycle-2
 title: Hierarchically-coupled hidden Markov models for learning kinetic rates from
   single-molecule data

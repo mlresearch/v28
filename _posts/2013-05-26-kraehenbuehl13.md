@@ -1,6 +1,6 @@
 ---
 pdf: http://proceedings.mlr.press/v28/kraehenbuehl13.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Parameter Learning and Convergent Inference for Dense Random Fields
 abstract: Dense random fields are models in which all pairs of variables are directly

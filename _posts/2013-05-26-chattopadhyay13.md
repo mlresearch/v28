@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v28/chattopadhyay13.pdf
 supplementary: Supplementary:chattopadhyay13-supp.pdf
-number: 2
+number: 3
 section: cycle-3
 title: Joint Transfer and Batch-mode Active Learning
 abstract: Active learning and transfer learning are two different methodologies that
