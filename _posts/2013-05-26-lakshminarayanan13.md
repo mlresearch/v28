@@ -5,7 +5,7 @@ number: 3
 section: cycle-3
 title: Top-down particle filtering for Bayesian decision trees
 abstract: "Decision tree learning is a popular approach for classification and regression
-  in machine learning and statistics, and Bayesian formulations\x1Awhich introduce
+  in machine learning and statistics, and Bayesian formulations which introduce
   a prior distribution over decision trees, and formulate learning as posterior inference
   given data\x1Ahave been shown to produce competitive performance. Unlike classic
   decision tree learning algorithms like ID3, C4.5 and CART, which work in a top-down
