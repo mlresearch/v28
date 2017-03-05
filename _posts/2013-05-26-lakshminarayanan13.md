@@ -5,12 +5,12 @@ number: 3
 section: cycle-3
 title: Top-down particle filtering for Bayesian decision trees
 abstract: "Decision tree learning is a popular approach for classification and regression
-  in machine learning and statistics, and Bayesian formulations which introduce
+  in machine learning and statistics, and Bayesian formulations - which introduce
   a prior distribution over decision trees, and formulate learning as posterior inference
-  given data\x1Ahave been shown to produce competitive performance. Unlike classic
+  given data - have been shown to produce competitive performance. Unlike classic
   decision tree learning algorithms like ID3, C4.5 and CART, which work in a top-down
   manner, existing Bayesian algorithms produce an approximation to the posterior distribution
-  by evolving a complete tree (or collection thereof) iteratively via local Monte
+  by evolving a <i>complete</i> tree (or collection thereof) iteratively via local Monte
   Carlo modifications to the structure of the tree, e.g., using Markov chain Monte
   Carlo (MCMC). We present a sequential Monte Carlo (SMC) algorithm that instead works
   in a top-down manner, mimicking the behavior and speed of classic algorithms. We
