@@ -31,7 +31,7 @@ author:
 - given: Jure
   family: Leskovec
 - given: Bernhard
-  family: "Sch\x1Alkopf"
+  family: Schölkopf
 date: 2013-05-26
 address: Atlanta, Georgia, USA
 publisher: PMLR
