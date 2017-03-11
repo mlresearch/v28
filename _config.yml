@@ -70,6 +70,7 @@ conference:
   - 2013-06-17
   - 2013-06-18
   - 2013-06-19
+  number: 30
 analytics:
   google:
     tracking_id: UA-92432422-1
